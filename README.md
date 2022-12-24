@@ -34,7 +34,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahmud035&theme=tokyonight&no-frame=true&margin-w=15&margin-h=10&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="left">✨ DevCard:</h2>
-<a href="https://app.daily.dev/mahmud035"><img src="https://github.com/mahmud035/mahmud035/blob/main/devcard.svg" width="350" alt="mahmudul hasan's Dev Card"/></a>
+<a href="https://app.daily.dev/Mahmud"><img src="https://github.com/mahmud035/mahmud035/blob/main/devcard.svg" width="350" alt="mahmudul hasan's Dev Card"/></a>
 
 <!-- <a href="https://app.daily.dev/Mahmud"><img src="https://api.daily.dev/devcards/4658b2987cff4f96a3b841b20b920e5b.png?r=6cn" width="350" alt="mahmudul hasan's Dev Card"/></a> -->
 
