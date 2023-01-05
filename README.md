@@ -13,7 +13,9 @@
 
 - Know about my experiences: [https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing](https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing)
 
-- How to reach me: **mahamudulhasan4148@gmail.com**
+<!-- - How to reach me: **https://www.linkedin.com/in/mahmud035/** || **mahamudulhasan4148@gmail.com** -->
+
+- How to reach me: <a href="https://linkedin.com/in/mahmud035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmud035" height="20" width="40" /></a>
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 
@@ -34,12 +36,7 @@
 <h2 align="left">✨ DevCard:</h2>
 <a href="https://app.daily.dev/Mahmud"><img src="https://github.com/mahmud035/mahmud035/blob/main/devcard.svg" width="350" alt="mahmudul hasan's Dev Card"/></a>
 
-<h2 align="left">⚡ Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/mahmud035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmud035" height="20" width="40" /></a>
-</p>
-
-<h2> Pinned: </h2>
+<!-- <h2>⭐ Pinned: </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmud035&repo=HomeTech&theme=tokyonight&hide_border=true)](https://github.com/mahmud035/HomeTech)
 
@@ -48,3 +45,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmud035&repo=BrainStormy&theme=tokyonight&hide_border=true)](https://github.com/mahmud035/BrainStormy)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmud035&repo=WebTesty&theme=tokyonight&hide_border=true)](https://github.com/mahmud035/WebTesty)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmud035&repo=Share-A-Fact&theme=tokyonight&hide_border=true)](https://github.com/mahmud035/Share-A-Fact)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmud035&repo=Task-Manager&theme=tokyonight&hide_border=true)](https://github.com/mahmud035/Task-Manager)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmud035&repo=Quran-Mazid---api&theme=tokyonight&hide_border=true)](https://github.com/mahmud035/Quran-Mazid---api) -->
