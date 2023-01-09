@@ -23,7 +23,7 @@
 
 <h2>📊 GitHub Statistics: </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud035&langs_count=10&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud035&langs_count=9&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Mahmudul Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmud035&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&hide_border=true)
 
