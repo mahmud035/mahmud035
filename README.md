@@ -23,9 +23,9 @@
 
 <h2>📊 GitHub Statistics: </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud035&langs_count=9&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mahmud035.vercel.app/api/top-langs/?username=mahmud035&langs_count=9&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Mahmudul Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmud035&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&hide_border=true)
+![Mahmudul Hasan's GitHub Stats](https://github-readme-stats-mahmud035.vercel.app/api?username=mahmud035&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mahmud035&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
