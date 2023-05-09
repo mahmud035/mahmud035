@@ -19,7 +19,7 @@
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,nextjs,nodejs,express,mongodb,firebase,styledcomponents,tailwind,bootstrap,css,html,ts,vscode,git,github,netlify,vercel,figma,c,codepen,discord,md,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts,redux,nextjs,nodejs,express,mongodb,firebase,styledcomponents,tailwind,bootstrap,css,html,vscode,git,github,netlify,vercel,figma,c,codepen,discord,md,stackoverflow)](https://skillicons.dev)
 
 <h2>📊 GitHub Statistics: </h2>
 
