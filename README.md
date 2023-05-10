@@ -9,7 +9,7 @@
 
 - I’m currently working on: [MERN Stack Development | Front End Development](https://github.com/mahmud035/HomeTech)
 
-- Ask me about: **JavaScript, React, Redux, Next.js, Node, Express, MongoDB, JWT, Firebase, Styled Components, Material UI, Tailwind CSS, Bootstrap, CSS3, HTML**
+- Ask me about: **JavaScript, TypeScript, React, Redux, Next.js, Node, Express, MongoDB, JWT, Firebase, Material UI, Tailwind CSS, Bootstrap, CSS3, HTML**
 
 - Know about my experiences: [https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing](https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing)
 
@@ -19,7 +19,7 @@
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,ts,redux,nextjs,nodejs,express,mongodb,firebase,styledcomponents,tailwind,bootstrap,css,html,vscode,git,github,netlify,vercel,figma,c,codepen,discord,md,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,css,html,vscode,git,github,netlify,vercel,figma,c,codepen,discord,md,stackoverflow)](https://skillicons.dev)
 
 <h2>📊 GitHub Statistics: </h2>
 
