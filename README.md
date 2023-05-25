@@ -9,7 +9,7 @@
 
 - I’m currently working on: [MERN Stack Development | Front End Development](https://github.com/mahmud035/HomeTech)
 
-- Ask me about: **JavaScript, TypeScript, React, Next.js, Node, Express, MongoDB, Mongoose, PostgreSQL, GraphQL, Nginx, Redux, JWT, Firebase, Tailwind CSS, Bootstrap, CSS3, HTML**
+- Ask me about: **JavaScript, TypeScript, React, Next.js, Node, Express, MongoDB, Mongoose, PostgreSQL, AWS, Docker, Nginx, GraphQL, REST API, Redux, JWT, Firebase, Tailwind CSS, Bootstrap, CSS3, HTML**
 
 - Know about my experiences: [https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing](https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing)
 
@@ -19,7 +19,7 @@
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redux,postman,firebase,tailwind,bootstrap,css,html,vscode,git,github,netlify,vercel,figma,c,codepen,discord,md,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,aws,docker,nginx,graphql,redux,postman,firebase,tailwind,bootstrap,css,html,vscode,git,github,netlify,vercel,figma,c,codepen,discord,md,stackoverflow)](https://skillicons.dev)
 
 <h2>📊 GitHub Statistics: </h2>
 
