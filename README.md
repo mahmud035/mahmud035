@@ -9,7 +9,7 @@
 
 - I’m currently working on: [MERN Stack Development | Front End Development](https://github.com/mahmud035/HomeTech)
 
-- Ask me about: **JavaScript, TypeScript, React, Next.js, Node, Express, MongoDB, Mongoose, Redux, JWT, Firebase, Tailwind CSS, Bootstrap, CSS3, HTML**
+- Ask me about: **JavaScript, TypeScript, React, Next.js, Node, Express, MongoDB, Mongoose, PostgreSQL, GraphQL, Nginx, Redux, JWT, Firebase, Tailwind CSS, Bootstrap, CSS3, HTML**
 
 - Know about my experiences: [https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing](https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing)
 
