@@ -36,6 +36,8 @@
 <h2 align="left">✨ DevCard:</h2>
 <a href="https://app.daily.dev/Mahmud"><img src="https://github.com/mahmud035/mahmud035/blob/main/devcard.svg" width="350" alt="mahmudul hasan's Dev Card"/></a>
 
+<!-- <img src="https://www.codewars.com/users/mahmud035/badges/micro"/>  -->
+
 <!-- <h2>⭐ Pinned: </h2> 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmud035&repo=HomeTech&theme=tokyonight&hide_border=true)](https://github.com/mahmud035/HomeTech)
