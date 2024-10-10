@@ -13,8 +13,6 @@
 
 - Know about my experiences: [https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing](https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing)
 
-<!-- - How to reach me: **https://www.linkedin.com/in/mahmud035/** || **mahamudulhasan4148@gmail.com** -->
-
 - How to reach me: <a href="https://linkedin.com/in/mahmud035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmud035" height="20" width="40" /></a>
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
@@ -23,7 +21,7 @@
 
 <h2>📊 GitHub Statistics: </h2>
 
-[![Top Langs](https://github-readme-stats-mahmud035.vercel.app/api/top-langs/?username=mahmud035&langs_count=7&layout=pie&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mahmud035.vercel.app/api/top-langs/?username=mahmud035&langs_count=7&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Mahmudul Hasan's GitHub Stats](https://github-readme-stats-mahmud035.vercel.app/api?username=mahmud035&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&hide_border=true)
 
