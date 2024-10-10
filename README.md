@@ -5,11 +5,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi%2C+I'm+Mahmudul+Hasan;MERN+Stack+Developer+;Front+End+Developer" alt="Typing SVG" /></a>
 </p>
 
-<h2>⚡ About Me:</h2> 
+<h2>✅ About Me: </h2> 
 
 - I’m currently working on: [MERN Stack Development | Front End Development](https://github.com/mahmud035/HomeTech)
 
-- Ask me about: **JavaScript, TypeScript, React, Next.js, Node, Express, MongoDB, Mongoose, PostgreSQL, AWS, Docker, Nginx, GraphQL, REST API, Redux, JWT, Firebase, Tailwind CSS, Bootstrap, CSS3, HTML**
+- Ask me about **JavaScript, TypeScript, React, Next.js, Node, Express, MongoDB, Mongoose, PostgreSQL, AWS, Docker, Nginx, GraphQL, REST API, Redux, JWT, Firebase, Tailwind CSS, Bootstrap, CSS3, HTML**
 
 - Know about my experiences: [https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing](https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing)
 
