@@ -35,6 +35,9 @@
 
 <h2 align="left">✨ DevCard:</h2>
 <a href="https://app.daily.dev/Mahmud"><img src="https://github.com/mahmud035/mahmud035/blob/main/devcard.svg" width="350" alt="mahmudul hasan's Dev Card"/></a>
+<br/>
+<h2 align="left">⭐ GitRoll:</h2>
+<a href="https://gitroll.io/profile/uhZOYEbG6W3crj5YFZure5jbu1Vn1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhZOYEbG6W3crj5YFZure5jbu1Vn1" alt="GitRoll Profile Badge"/></a>
 
 <!-- <img src="https://www.codewars.com/users/mahmud035/badges/micro"/>  -->
 
