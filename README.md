@@ -23,7 +23,7 @@
 
 <h2>📊 GitHub Statistics: </h2>
 
-[![Top Langs](https://github-readme-stats-mahmud035.vercel.app/api/top-langs/?username=mahmud035&langs_count=10&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mahmud035.vercel.app/api/top-langs/?username=mahmud035&langs_count=7&layout=pie&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Mahmudul Hasan's GitHub Stats](https://github-readme-stats-mahmud035.vercel.app/api?username=mahmud035&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&hide_border=true)
 
@@ -40,19 +40,3 @@
 <a href="https://gitroll.io/profile/uhZOYEbG6W3crj5YFZure5jbu1Vn1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhZOYEbG6W3crj5YFZure5jbu1Vn1" alt="GitRoll Profile Badge"/></a>
 
 <!-- <img src="https://www.codewars.com/users/mahmud035/badges/micro"/>  -->
-
-<!-- <h2>⭐ Pinned: </h2> 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmud035&repo=HomeTech&theme=tokyonight&hide_border=true)](https://github.com/mahmud035/HomeTech)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmud035&repo=Nurturing-Minds&theme=tokyonight&hide_border=true)](https://github.com/mahmud035/Nurturing-Minds)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmud035&repo=BrainStormy&theme=tokyonight&hide_border=true)](https://github.com/mahmud035/BrainStormy)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmud035&repo=WebTesty&theme=tokyonight&hide_border=true)](https://github.com/mahmud035/WebTesty)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmud035&repo=Share-A-Fact&theme=tokyonight&hide_border=true)](https://github.com/mahmud035/Share-A-Fact)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmud035&repo=Task-Manager&theme=tokyonight&hide_border=true)](https://github.com/mahmud035/Task-Manager)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmud035&repo=Quran-Mazid---api&theme=tokyonight&hide_border=true)](https://github.com/mahmud035/Quran-Mazid---api) -->
