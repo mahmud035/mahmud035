@@ -12,15 +12,15 @@
 
 ## 🔥 Key Skills and Technologies:
 
-- **Frontend Development**: JavaScript, TypeScript, React, Next.js, TanStack Query, Axios, Redux Toolkit
+- **Frontend Development**: JavaScript, TypeScript, React, Next.js, Axios, TanStack Query, Zustand, Redux Toolkit 
 - **Styling**: Tailwind CSS, Bootstrap, CSS3
 - **Backend Development**: Node.js, Express.js, REST APIs, GraphQL
-- **Databases & Testing**: MongoDB, Mongoose, Firebase, React Testing Library, Jest
-- **DevOps & Tools**: Docker, Git, Postman, Vercel, Figma, VS Code
+- **Databases & Testing**: MongoDB, Mongoose, Firebase, React Testing Library, Vitest
+- **DevOps & Tools**: Git, Postman, Vercel, Figma, VS Code
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,graphql,mongodb,firebase,jest,docker,postman,tailwind,css,vscode,git,vercel,figma,c,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,graphql,mongodb,firebase,jest,vitest,postman,tailwind,css,vscode,git,vercel,figma,c,python)](https://skillicons.dev)
 
 ## 📊 GitHub Statistics:
 
