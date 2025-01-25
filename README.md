@@ -28,7 +28,7 @@
 
 ![Mahmudul Hasan's GitHub Stats](https://github-readme-stats-mahmud035.vercel.app/api?username=mahmud035&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mahmud035&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahmud035&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies:
 
