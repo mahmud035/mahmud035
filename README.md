@@ -16,11 +16,11 @@
 - **Styling**: Tailwind CSS, Bootstrap, CSS3
 - **Backend Development**: Node.js, Express.js, REST APIs, GraphQL, JWT
 - **Databases & Testing**: MongoDB, Mongoose, Firebase, React Testing Library, Vitest
-- **DevOps & Tools**: Docker, Git, Postman, Vercel, Figma, VS Code
+- **DevOps & Tools**: Docker, Git, Postman, Vercel, Figma, VS Code, Linux
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,graphql,mongodb,firebase,jest,vitest,postman,tailwind,css,vscode,docker,git,vercel,figma,c,python,linux,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,graphql,mongodb,firebase,jest,vitest,docker,git,postman,tailwind,css,vscode,vercel,figma,c,python,linux,ubuntu)](https://skillicons.dev)
 
 ## 📊 GitHub Statistics:
 
