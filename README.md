@@ -5,7 +5,7 @@
 ## 📜 About Me:
 
 - **Currently Working On:** [MERN Stack Development | Front End Development](https://github.com/mahmud035/HomeTech)
-- **Expertise:** JavaScript, TypeScript, React, Next.js, Node, Express, MongoDB, Mongoose, GraphQL, REST API, TanStack Query, Axios, Redux Toolkit, JWT, Firebase, Tailwind CSS, Bootstrap, CSS3, HTML5
+- **Expertise:** JavaScript, TypeScript, React, Next.js, Node, Express, MongoDB, Mongoose, GraphQL, REST API, TanStack Query, Axios, Redux Toolkit, Docker, JWT, Firebase, Tailwind CSS, Bootstrap, CSS3, HTML5
 - **Experience & Portfolio:** [Resume](https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing) | [Portfolio](http://portfolio-3a628.web.app/)
 - **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/mahmud035/) | [mahamudulhasan4148@gmail.com](mailto:mahamudulhasan4148@gmail.com)
 - **Open to Collaboration** on exciting MERN Stack projects
