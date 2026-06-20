@@ -1,10 +1,10 @@
 <p  align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi%2C+I'm+Md.+Mahamudul+Hasan;MERN+Stack+Developer+;Front+End+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi%2C+I'm+Md.+Mahamudul+Hasan;Full-Stack+MERN+Developer" alt="Typing SVG" /></a>
 </p>
 
 ## 📜 About Me:
 
-- **Currently Working On:** [MERN Stack Development | Front End Development](https://github.com/mahmud035/HomeTech)
+- **Currently Working On:** [MERN Stack Development](https://github.com/mahmud035/HomeTech)
 - **Expertise:** JavaScript, TypeScript, React, Next.js, Node, Express, MongoDB, Mongoose, GraphQL, REST API, TanStack Query, Axios, Redux Toolkit, Docker, JWT, Firebase, Tailwind CSS, Bootstrap, CSS3, HTML5
 - **Experience & Portfolio:** [Resume](https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing) | [Portfolio](http://portfolio-3a628.web.app/)
 - **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/mahmud035/) | [mahamudulhasan4148@gmail.com](mailto:mahamudulhasan4148@gmail.com)
@@ -12,7 +12,7 @@
 
 ## 🔥 Key Skills and Technologies:
 
-- **Frontend Development**: JavaScript, TypeScript, React, Next.js, Axios, TanStack Query, Zustand, Redux Toolkit 
+- **Frontend Development**: JavaScript, TypeScript, React, Next.js, Axios, TanStack Query, Zustand, Redux Toolkit
 - **Styling**: Tailwind CSS, Bootstrap, CSS3
 - **Backend Development**: Node.js, Express.js, REST APIs, GraphQL, JWT
 - **Databases & Testing**: MongoDB, Mongoose, Firebase, React Testing Library, Vitest
