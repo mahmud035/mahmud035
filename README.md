@@ -21,7 +21,9 @@
 
 <br/>
 
+<!--
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,supabase,vitest,docker,git,graphql,postman,tailwind,css,vscode,vercel,figma,c,python,linux,ubuntu)](https://skillicons.dev)
+-->
 
 ## 📊 GitHub Statistics:
 
