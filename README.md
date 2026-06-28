@@ -20,7 +20,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,graphql,mongodb,firebase,jest,vitest,docker,git,postman,tailwind,css,vscode,vercel,figma,c,python,linux,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,graphql,mongodb,firebase,supabase,vitest,docker,git,postman,tailwind,css,vscode,vercel,figma,c,python,linux,ubuntu)](https://skillicons.dev)
 
 ## 📊 GitHub Statistics:
 
