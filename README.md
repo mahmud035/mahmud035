@@ -30,9 +30,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mahmud035&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-## 🏆 GitHub Trophies:
+<!-- ## 🏆 GitHub Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahmud035&theme=tokyonight&no-frame=true&margin-w=15&margin-h=10&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahmud035&theme=tokyonight&no-frame=true&margin-w=15&margin-h=10&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## 🏅 Codewars Rank:
 
