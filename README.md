@@ -5,18 +5,19 @@
 ## 📜 About Me:
 
 - **Currently Working On:** [MERN Stack Development](https://github.com/mahmud035/recipe-note)
-- **Expertise:** JavaScript, TypeScript, React, Next.js, Node, Express, MongoDB, Mongoose, GraphQL, REST API, TanStack Query, Axios, Redux Toolkit, Docker, JWT, Firebase, Tailwind CSS, Bootstrap, CSS3, HTML5
+- **Expertise:** React 19, TypeScript, TanStack Query v5, Node.js, Express 5, MongoDB, Mongoose, REST APIs, JWT (HTTP-only cookies), Stripe, Cloudinary, Google Gemini, Docker, GitHub Actions (CI/CD), Git,
 - **Experience & Portfolio:** [Resume](https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing) | [Portfolio](http://portfolio-3a628.web.app/)
 - **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/mahmud035/) | [mahamudulhasan4148@gmail.com](mailto:mahamudulhasan4148@gmail.com)
 - **Open to Collaboration** on exciting MERN Stack projects
 
-## 🔥 Key Skills and Technologies:
+## 🔥 Technical Skills:
 
-- **Frontend Development**: JavaScript, TypeScript, React, Next.js, TanStack Query, Axios, RHF, Zustand
-- **Styling**: Tailwind CSS v4, Bootstrap, CSS3
-- **Backend Development**: Node.js, Express.js, REST APIs, GraphQL, JWT
-- **Databases & Testing**: MongoDB, Mongoose, Firebase, Supabase, Vitest, RTL
-- **DevOps & Tools**: Docker, CI/CD, Git, Postman, Vercel, Railway, Figma, VS Code, Linux
+- **Frontend:** React 19, TypeScript, TanStack Query v5, React Hook Form, Zod, Tailwind CSS v4, Zustand, Axios, Vite, Framer Motion
+- **Backend:** Node.js, Express 5, MongoDB, Mongoose, REST APIs, JWT (HTTP-only cookies), GraphQL
+- **Payments / Media / AI:** Stripe, Cloudinary, Google Gemini
+- **DevOps & Tools:** Docker, GitHub Actions (CI/CD), Git, Vercel, Railway, Postman, Figma, Linux
+- **Testing:** Vitest, React Testing Library
+- **Familiar:** Next.js, Prisma, Supabase
 
 <br/>
 
