@@ -12,11 +12,11 @@
 
 ## 🔥 Key Skills and Technologies:
 
-- **Frontend Development**: JavaScript, TypeScript, React, Next.js, Axios, TanStack Query, Zustand, Redux Toolkit
-- **Styling**: Tailwind CSS, Bootstrap, CSS3
+- **Frontend Development**: JavaScript, TypeScript, React, Next.js, TanStack Query, Axios, RHF, Zustand
+- **Styling**: Tailwind CSS v4, Bootstrap, CSS3
 - **Backend Development**: Node.js, Express.js, REST APIs, GraphQL, JWT
-- **Databases & Testing**: MongoDB, Mongoose, Firebase, React Testing Library, Vitest
-- **DevOps & Tools**: Docker, Git, Postman, Vercel, Figma, VS Code, Linux
+- **Databases & Testing**: MongoDB, Mongoose, Firebase, Supabase, Vitest, RTL
+- **DevOps & Tools**: Docker, CI/CD, Git, Postman, Vercel, Railway, Figma, VS Code, Linux
 
 <br/>
 
