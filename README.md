@@ -1,5 +1,5 @@
 <p  align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi%2C+I'm+Md.+Mahamudul+Hasan;Full-Stack+MERN+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi%2C+I'm+Md.+Mahamudul+Hasan+Pavel;Full-Stack+MERN+Developer" alt="Typing SVG" /></a>
 </p>
 
 ## 📜 About Me:
