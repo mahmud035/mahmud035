@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://mahamudulhasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mahmud035/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view"><img src="https://img.shields.io/badge/Résumé-111827?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view"><img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
   <a href="mailto:mahamudulhasan4148@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://x.com/MHPAVEL19"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
