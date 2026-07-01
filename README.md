@@ -25,25 +25,22 @@ Full-stack MERN developer with **3+ years building and shipping production-grade
 ## Featured Projects
 
 ### [Halal Aura](https://halalaura.co.uk) — Premium Halal Fragrance E-Commerce (UK)
-
 Customer storefront for a **live UK e-commerce platform** — ~35,000 lines of TypeScript across 25 lazy-loaded pages and 12 feature modules, consuming 70+ REST endpoints. Dual guest/authenticated cart that merges on login with real-time stock checks, Mollie checkout behind a provider-agnostic payment layer, and JWT-in-HTTP-only-cookie auth with a silent refresh interceptor.
 
 `React 19` · `TypeScript` · `Tailwind v4` · `TanStack Query` · `Mollie` · `Vercel`
-**[Live →](https://halalaura.co.uk)** _(commercial — source private)_
+**[Live →](https://halalaura.co.uk)** *(commercial — source private)*
 
 ### [রাঁধুনি (Recipe-Note)](https://recipe-note-app.vercel.app) — AI Recipe Extractor
-
 Turns Bengali YouTube cooking videos into **editable, structured recipes** via Google Gemini — built for a real non-technical user and run end-to-end on a $0 hosting/inference budget. Asynchronous job pipeline with wall-clock timeouts, race guards, and orphaned-job recovery; a single Zod schema serves four consumers so backend changes break the frontend at compile time.
 
 `React 19` · `TypeScript` · `Gemini` · `Express 5` · `Mongoose` · `Zod` · `Docker` · `GitHub Actions`
 **[Live →](https://recipe-note-app.vercel.app)** &nbsp;·&nbsp; **[Code →](https://github.com/mahmud035/recipe-note)**
 
 ### [Aston CS Research Portal](https://github.com/mahmud035/aston-cs-research-portal) — Research Discovery Platform
-
 Department research portal to explore faculty, publications, and collaboration networks, with debounced keyword search and an **interactive force-directed collaboration graph** (weighted co-authorship edges, department clustering, PNG export). Strict feature-driven architecture mirroring frontend features 1:1 to backend modules.
 
 `React` · `TypeScript` · `Node/Express` · `MongoDB` · `TanStack Query` · `Zod`
-**[Code →](https://github.com/mahmud035/aston-cs-research-portal)**
+**[Live →](https://aston-cs-research-portal.vercel.app/)** &nbsp;·&nbsp; **[Code →](https://github.com/mahmud035/aston-cs-research-portal)**
 
 > More shipped work, live demos, and case studies on my **[portfolio →](https://mahamudulhasan.vercel.app/)**
 
@@ -52,7 +49,6 @@ Department research portal to explore faculty, publications, and collaboration n
 ## Tech Stack
 
 **What I use**
-
 - **Frontend:** React 19 · TypeScript · TanStack Query v5 · React Hook Form · Zod · Tailwind CSS v4 · Axios · Vite · Framer Motion
 - **Backend:** Node.js · Express 5 · MongoDB · Mongoose · REST APIs · JWT (HTTP-only cookies)
 - **AI & Payments:** Google Gemini · Mollie · Cloudinary
@@ -67,8 +63,8 @@ Stripe · GraphQL · Redux Toolkit · Zustand · Next.js · Prisma · Supabase
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-mahmud035.vercel.app/api?username=mahmud035&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&hide_border=true" alt="Md. Mahamudul Hasan Pavel's GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=mahmud035&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="145" src="https://github-readme-stats-mahmud035.vercel.app/api?username=mahmud035&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&hide_border=true" alt="Md. Mahamudul Hasan Pavel's GitHub stats" />
+  <img height="145" src="https://streak-stats.demolab.com?user=mahmud035&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
