@@ -1,65 +1,76 @@
-<p  align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi%2C+I'm+Md.+Mahamudul+Hasan+Pavel;Full-Stack+MERN+Developer" alt="Typing SVG" /></a>
+<h1 align="center">Md. Mahamudul Hasan Pavel</h1>
+
+<p align="center">AI-native Full-Stack MERN Developer &nbsp;·&nbsp; React · TypeScript · Node · MongoDB</p>
+
+<p align="center">
+  <a href="https://mahamudulhasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mahmud035/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view"><img src="https://img.shields.io/badge/Résumé-111827?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
+  <a href="mailto:mahamudulhasan4148@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/MHPAVEL19"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
-## 📜 About Me:
+---
 
-- **Currently Working On:** [MERN Stack Development](https://github.com/mahmud035/recipe-note)
-- **Expertise:** React 19, TypeScript, TanStack Query v5, Node.js, Express 5, MongoDB, Mongoose, REST APIs, JWT (HTTP-only cookies), Stripe, Cloudinary, Google Gemini, Docker, GitHub Actions (CI/CD), Git,
-- **Experience & Portfolio:** [Resume](https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing) | [Portfolio](https://mahamudulhasan.vercel.app/)
-- **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/mahmud035/) | [mahamudulhasan4148@gmail.com](mailto:mahamudulhasan4148@gmail.com)
-- **Open to Collaboration** on exciting MERN Stack projects
+## About
 
-## 🔥 Technical Skills:
+Full-stack MERN developer with **3+ years building and shipping production-grade, type-safe web applications** — working independently and with small teams. I care about clean feature-driven architecture, API contracts that break TypeScript at compile time (not runtime), and shipping software real users depend on.
 
-- **Frontend:** React 19, TypeScript, TanStack Query v5, React Hook Form, Zod, Tailwind CSS v4, Zustand, Axios, Vite, Framer Motion
-- **Backend:** Node.js, Express 5, MongoDB, Mongoose, REST APIs, JWT (HTTP-only cookies), GraphQL
-- **Payments / Media / AI:** Stripe, Cloudinary, Google Gemini
-- **DevOps & Tools:** Docker, GitHub Actions (CI/CD), Git, Vercel, Railway, Postman, Figma, Linux
-- **Testing:** Vitest, React Testing Library
-- **Familiar:** Next.js, Prisma, Supabase
+- **Currently building:** an AI support/knowledge SaaS (RAG over MongoDB Atlas Vector Search + Gemini) and a real-time live-auction platform (Socket.io + Redis)
+- **Focus:** React 19 · TypeScript · RAG pipelines · real-time systems · payment integrations
+- **Open to:** full-stack roles (local + remote) and freelance MERN work
 
-<br/>
+---
 
-<!--
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,supabase,vitest,docker,git,graphql,postman,tailwind,css,vscode,vercel,figma,c,python,linux,ubuntu)](https://skillicons.dev)
--->
+## Featured Projects
 
-## 📊 GitHub Statistics:
+### [Halal Aura](https://halalaura.co.uk) — Premium Halal Fragrance E-Commerce (UK)
 
-[![Top Langs](https://github-readme-stats-mahmud035.vercel.app/api/top-langs/?username=mahmud035&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+Customer storefront for a **live UK e-commerce platform** — ~35,000 lines of TypeScript across 25 lazy-loaded pages and 12 feature modules, consuming 70+ REST endpoints. Dual guest/authenticated cart that merges on login with real-time stock checks, Mollie checkout behind a provider-agnostic payment layer, and JWT-in-HTTP-only-cookie auth with a silent refresh interceptor.
 
-![Mahmudul Hasan's GitHub Stats](https://github-readme-stats-mahmud035.vercel.app/api?username=mahmud035&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&hide_border=true)
+`React 19` · `TypeScript` · `Tailwind v4` · `TanStack Query` · `Mollie` · `Vercel`
+**[Live →](https://halalaura.co.uk)** _(commercial — source private)_
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahmud035&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+### [রাঁধুনি (Recipe-Note)](https://recipe-note-app.vercel.app) — AI Recipe Extractor
 
-<!-- ## 🏆 GitHub Trophies:
+Turns Bengali YouTube cooking videos into **editable, structured recipes** via Google Gemini — built for a real non-technical user and run end-to-end on a $0 hosting/inference budget. Asynchronous job pipeline with wall-clock timeouts, race guards, and orphaned-job recovery; a single Zod schema serves four consumers so backend changes break the frontend at compile time.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahmud035&theme=tokyonight&no-frame=true&margin-w=15&margin-h=10&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
+`React 19` · `TypeScript` · `Gemini` · `Express 5` · `Mongoose` · `Zod` · `Docker` · `GitHub Actions`
+**[Live →](https://recipe-note-app.vercel.app)** &nbsp;·&nbsp; **[Code →](https://github.com/mahmud035/recipe-note)**
 
-## 🏅 Codewars Rank:
+### [Aston CS Research Portal](https://github.com/mahmud035/aston-cs-research-portal) — Research Discovery Platform
 
-<a href="https://www.codewars.com/users/mahmud035"><img src="https://www.codewars.com/users/mahmud035/badges/large" alt="Codewars Badge"/></a>
+Department research portal to explore faculty, publications, and collaboration networks, with debounced keyword search and an **interactive force-directed collaboration graph** (weighted co-authorship edges, department clustering, PNG export). Strict feature-driven architecture mirroring frontend features 1:1 to backend modules.
 
-## 💻 DevCard:
+`React` · `TypeScript` · `Node/Express` · `MongoDB` · `TanStack Query` · `Zod`
+**[Code →](https://github.com/mahmud035/aston-cs-research-portal)**
 
-<a href="https://app.daily.dev/Mahmud"><img src="https://github.com/mahmud035/mahmud035/blob/main/devcard.svg" width="350" alt="mahmudul hasan's Dev Card"/></a>
-<br/>
+> More shipped work, live demos, and case studies on my **[portfolio →](https://mahamudulhasan.vercel.app/)**
 
-## ⚡ GitRoll:
+---
 
-<a href="https://gitroll.io/profile/uhZOYEbG6W3crj5YFZure5jbu1Vn1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhZOYEbG6W3crj5YFZure5jbu1Vn1" alt="GitRoll Profile Badge"/></a>
+## Tech Stack
 
-## 🤝 Socials:
+**What I use**
 
-<p align="left"> 
-<a href="https://www.linkedin.com/in/mahmud035/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.facebook.com/mh.pavel.3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.github.com/mahmud035" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-<a href="https://codesandbox.io/u/mahmud035" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.codepen.io/mahmud035" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.dev.to/mahmud" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a>
-<a href="http://www.medium.com/@mahmud.cse.bsmrstu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.stackoverflow.com/users/19131418/mahmud" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.x.com/MHPAVEL19" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
+- **Frontend:** React 19 · TypeScript · TanStack Query v5 · React Hook Form · Zod · Tailwind CSS v4 · Axios · Vite · Framer Motion
+- **Backend:** Node.js · Express 5 · MongoDB · Mongoose · REST APIs · JWT (HTTP-only cookies)
+- **AI & Payments:** Google Gemini · Mollie · Cloudinary
+- **DevOps & Tools:** Docker · GitHub Actions (CI/CD) · Git · Vercel · Railway · MongoDB Atlas · Postman · Figma · Linux
+- **Testing:** Vitest · React Testing Library
+
+**Also worked with**
+Stripe · GraphQL · Redux Toolkit · Zustand · Next.js · Prisma · Supabase
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-mahmud035.vercel.app/api?username=mahmud035&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&hide_border=true" alt="Md. Mahamudul Hasan Pavel's GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=mahmud035&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-mahmud035.vercel.app/api/top-langs/?username=mahmud035&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Most used languages" />
 </p>
