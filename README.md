@@ -25,7 +25,7 @@ Full-stack MERN developer with **3+ years building and shipping production-grade
 ## Featured Projects
 
 ### [Halal Aura](https://halalaura.co.uk) — Premium Halal Fragrance E-Commerce (UK)
-Customer storefront for a **live UK e-commerce platform** — ~35,000 lines of TypeScript across 25 lazy-loaded pages and 12 feature modules, consuming 70+ REST endpoints. Dual guest/authenticated cart that merges on login with real-time stock checks, Mollie checkout behind a provider-agnostic payment layer, and JWT-in-HTTP-only-cookie auth with a silent refresh interceptor.
+Customer storefront for a **live UK e-commerce platform** — ~35,000 lines of TypeScript across 25 lazy-loaded pages and 12 feature modules, consuming 90+ REST endpoints. Dual guest/authenticated cart that merges on login with real-time stock checks, Mollie checkout behind a provider-agnostic payment layer, and JWT-in-HTTP-only-cookie auth with a silent refresh interceptor.
 
 `React 19` · `TypeScript` · `Tailwind v4` · `TanStack Query` · `Mollie` · `Vercel`
 **[Live →](https://halalaura.co.uk)** *(commercial — source private)*
