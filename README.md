@@ -6,7 +6,7 @@
 
 - **Currently Working On:** [MERN Stack Development](https://github.com/mahmud035/recipe-note)
 - **Expertise:** React 19, TypeScript, TanStack Query v5, Node.js, Express 5, MongoDB, Mongoose, REST APIs, JWT (HTTP-only cookies), Stripe, Cloudinary, Google Gemini, Docker, GitHub Actions (CI/CD), Git,
-- **Experience & Portfolio:** [Resume](https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing) | [Portfolio](http://portfolio-3a628.web.app/)
+- **Experience & Portfolio:** [Resume](https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view?usp=sharing) | [Portfolio](https://mahamudulhasan.vercel.app/)
 - **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/mahmud035/) | [mahamudulhasan4148@gmail.com](mailto:mahamudulhasan4148@gmail.com)
 - **Open to Collaboration** on exciting MERN Stack projects
 
