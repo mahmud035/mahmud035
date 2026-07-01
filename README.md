@@ -55,7 +55,7 @@ Department research portal to explore faculty, publications, and collaboration n
 - **DevOps & Tools:** Docker · GitHub Actions (CI/CD) · Git · Vercel · Railway · MongoDB Atlas · Postman · Figma · Linux
 - **Testing:** Vitest · React Testing Library
 
-**Also worked with**
+**Also worked with:**
 Stripe · GraphQL · Redux Toolkit · Zustand · Next.js · Prisma · Supabase
 
 ---
