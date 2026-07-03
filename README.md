@@ -65,13 +65,13 @@ Full-stack developer with **2+ years building and shipping production-grade, typ
 
 **What I use**
 
-- **Frontend:** React 19 · TypeScript · TanStack Query v5 · React Hook Form · Tailwind CSS v4 · Axios · Vite · Motion
+- **Frontend:** React 19 · TypeScript · Tailwind CSS v4 · TanStack Query v5 · React Hook Form · Axios · Vite · Motion
 - **Backend:** Node.js · Express 5 · MongoDB · Mongoose · REST APIs · JWT (HTTP-only cookies) · Zod
-- **AI & Payments:** Google Gemini · Square · Stripe · Mollie · Cloudinary
-- **DevOps & Tools:** Docker · GitHub Actions (CI/CD) · Git · Vercel · Railway · MongoDB Atlas · Postman · Figma · Linux
+- **Payments / Media / AI:** Square · Stripe · Mollie · Cloudinary · Google Gemini
+- **DevOps & Tools:** Docker · GitHub Actions (CI/CD) · Git · Vercel · Railway · Postman · Figma · Linux
 - **Testing:** Vitest · React Testing Library
 
-**Also worked with:** PostgreSQL · Prisma · Firebase · Supabase
+**Also worked with:** PostgreSQL · Prisma · Python · Firebase · Supabase
 
 ---
 
