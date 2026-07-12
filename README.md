@@ -45,7 +45,7 @@ Full-stack developer with **2+ years building and shipping production-grade, typ
 - **Anchored the system on a single Zod schema serving four consumers** (AI response, Mongoose model, API envelope, and client type), so backend changes break the frontend at compile time, not runtime.
 - **Owned split-origin deployment:** multi-stage Docker image → GitHub Actions → GHCR → self-hosted box behind a Cloudflare Tunnel, with auto-deploying CI/CD, an atomic daily-budget guard, and per-IP rate limiting.
 
-**[Live →](https://recipe-note-app.vercel.app)** &nbsp;·&nbsp; **[Code →](https://github.com/mahmud035/recipe-note)**
+**[Live →](https://recipe-note-app.vercel.app)** &nbsp;·&nbsp; **[Code →](https://github.com/mahmud035/recipe-note)** &nbsp;·&nbsp; **[Infra Docs →](https://github.com/mahmud035/devops-lab)**
 
 ### [Mini ERP](https://mini-erp-client-app.vercel.app) — Role-Based Inventory & Sales Management
 
