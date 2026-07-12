@@ -47,6 +47,17 @@ Full-stack developer with **2+ years building and shipping production-grade, typ
 
 **[Live →](https://recipe-note-app.vercel.app)** &nbsp;·&nbsp; **[Code →](https://github.com/mahmud035/recipe-note)**
 
+### [Mini ERP](https://mini-erp-client-app.vercel.app) — Role-Based Inventory & Sales Management
+
+`React 19` · `TypeScript` · `Express 5` · `MongoDB` · `TanStack Query v5` · `Socket.IO` · `Zod` · `Tailwind v4` · `Vercel` · `Railway`
+
+- **Engineered a fully DB-driven RBAC layer** resolved per request behind a single authorization guard with zero hardcoded role names, so editing a role's permission set takes effect on the user's next request — no re-login, no redeploy.
+- **Made multi-line sales transactional and race-safe** with a Mongoose session and a guarded atomic stock decrement per line item, so two sales racing for the last unit resolve all-or-nothing with server-computed totals — a failed line rolls the entire sale back, never a phantom decrement.
+- **Solved first-party cookie auth across two different-origin deployments** (Vercel + Railway) with a same-origin `/api/*` proxy and a single-flight refresh interceptor that queues concurrent 401s and replays each once — then authenticated the WebSocket, which can't ride that proxy, with an in-memory access token: one auth model, two transports.
+- **Delivered real-time low-stock alerts over Socket.IO** scoped to a permission-gated room only `product:update` holders join, with the broadcast isolated from the committing sale transaction so a socket failure can never delay or roll back a sale.
+
+**[Live →](https://mini-erp-client-app.vercel.app)** &nbsp;·&nbsp; **[Code →](https://github.com/mahmud035/mini-erp-client)**
+
 ### [Aston CS Research Portal](https://aston-cs-research-portal.vercel.app/) — Research Discovery Platform
 
 `React 19` · `TypeScript` · `Express 5` · `MongoDB` · `TanStack Query v5` · `Zod`
