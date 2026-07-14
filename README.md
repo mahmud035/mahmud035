@@ -93,6 +93,10 @@ Full-stack developer with **2+ years building and shipping production-grade, typ
   <img height="145" src="https://streak-stats.demolab.com?user=mahmud035&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+<!-- <p align="center">
+  <img src="https://github-readme-stats-mahmud035.vercel.app/api/top-langs/?username=mahmud035&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p> -->
+
 <p align="center">
-  <img src="https://github-readme-stats-mahmud035.vercel.app/api/top-langs/?username=mahmud035&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Most used languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mahmud035&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
