@@ -89,14 +89,11 @@ Full-stack developer with **2+ years building and shipping production-grade, typ
 ## GitHub Stats
 
 <p align="center">
-  <img height="145" src="https://github-readme-stats-mahmud035.vercel.app/api?username=mahmud035&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&hide_border=true" alt="Md. Mahamudul Hasan Pavel's GitHub stats" />
+  <img height="145" src="https://github-stats-mahmud035.vercel.app/api?username=mahmud035&show_icons=true&theme=tokyonight&hide=contribs&hide_border=true&hide_rank=true&include_all_commits=true" alt="Md. Mahamudul Hasan Pavel's GitHub stats" />
   <img height="145" src="https://streak-stats.demolab.com?user=mahmud035&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats-mahmud035.vercel.app/api/top-langs/?username=mahmud035&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p> -->
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mahmud035&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Most used languages" />
+   <img src="https://github-stats-mahmud035.vercel.app/api/top-langs?username=mahmud035&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&exclude_repo=courses-by-jonas-schmedtmann,courses-by-colt-steele" alt="Most used languages" />
 </p>
