@@ -90,7 +90,7 @@ Full-stack developer with **2+ years building and shipping production-grade, typ
 
 <p align="center">
   <img height="145" src="https://github-stats-mahmud035.vercel.app/api?username=mahmud035&show_icons=true&theme=tokyonight&hide=contribs&hide_border=true&hide_rank=true&include_all_commits=true" alt="Md. Mahamudul Hasan Pavel's GitHub stats" />
-  <img height="145" src="https://streak-stats.demolab.com?user=mahmud035&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="145" src="./profile/streak.svg" alt="GitHub streak" />
 </p>
 
 
