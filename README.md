@@ -3,7 +3,7 @@
 <p align="center">AI-native Full-Stack Developer &nbsp;·&nbsp; React · TypeScript · Node · MongoDB</p>
 
 <p align="center">
-  <a href="https://mahamudulhasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://mahamudulhasan.dev/"><img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mahmud035/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://drive.google.com/file/d/1XUTioVsxcvO6owju9ZU1BeOAOqpSm4kj/view"><img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
   <a href="mailto:mahamudulhasan4148@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -68,7 +68,7 @@ Full-stack developer with **2+ years building and shipping production-grade, typ
 
 **[Live →](https://aston-cs-research-portal.vercel.app/)** &nbsp;·&nbsp; **[Code →](https://github.com/mahmud035/aston-cs-research-portal)**
 
-> More shipped work, live demos, and case studies on my **[portfolio →](https://mahamudulhasan.vercel.app/)**
+> More shipped work, live demos, and case studies on my **[portfolio →](https://mahamudulhasan.dev/)**
 
 ---
 
